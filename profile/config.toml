@@ -1,5 +1,5 @@
 baseurl = "https://sat0l.github.io/"
-publishDir = "docs"
+publishDir = "../docs"
 title = "sat0l"
 theme = "pulp"
 canonifyurls = true
